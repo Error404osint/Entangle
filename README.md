@@ -19,7 +19,7 @@
 ```bash
 git clone https://github.com/errorov404/Entangle.git
 cd Entangle
-python3 entangle.py
+python3 Entangle.py
 
 
 
